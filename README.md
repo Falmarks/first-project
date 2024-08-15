@@ -1,1 +1,1 @@
-https://github.com/Falmarks/first-project.git
+https://github.com/Falmarks/first-project
